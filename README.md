@@ -2,7 +2,7 @@
 
 **I love my cats more than I love most people. Probably more than is healthy.**
 
-![viewfinal](https://s6.uupload.ir/files/bdrs_eqnj.png)
+![bdrs](https://github.com/haniehtahmaseb/border-radius/assets/155815327/3b30607b-2060-4518-a116-2551ae725202)
 
 - [Demo Project](https://haniehtahmaseb.github.io/border-radius/project-brds.html)
 
