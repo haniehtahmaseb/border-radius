@@ -1,18 +1,14 @@
 # Border-radius
 
-**Yh**
+**I love my cats more than I love most people. Probably more than is healthy.**
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
-
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![viewfinal](https://s6.uupload.ir/files/bdrs_eqnj.png)
 
 - [Demo Project]()
 
 - Developed by Hani Tahmaseb
 
 - Technologies Used - Html , css
-
-- Hooks Used : useState 
 
 - Role - Frontend
 
